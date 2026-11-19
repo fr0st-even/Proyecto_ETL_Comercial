@@ -1,0 +1,6 @@
+id_producto,producto,categoria,costo
+101,Teclado,Accesorios,90.0
+102,Monitor,Computo,170.0
+103,Mouse,Accesorios,25.0
+104,Audifonos,Audio,50.0
+105,Bocina,Audio,45.0
